@@ -1,4 +1,4 @@
-# hey, I'm Josh
+# hey, I'm Joshua
 
 I build small, weird, useful tools — no frameworks, no build step, no `node_modules`. If a project of mine needs a `package.json`, something has gone wrong. I also build games and mobile apps.
 
